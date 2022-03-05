@@ -1,5 +1,6 @@
 * {
   font-family: "Times New Roman", Times, serif;
+  user-select: none;
 }
 
 header .underline {
@@ -14,6 +15,7 @@ header .underline .d-flex div {
   font-size: 18px;
   line-height: 22px;
   color: #828282;
+  cursor: pointer;
 }
 header .home-body {
   padding-top: 95px;
@@ -43,6 +45,79 @@ header .home-body .d-flex #lang {
 header .home-body .d-flex #lang .active {
   font-weight: 900;
   color: #070707;
+}
+
+#about {
+  padding-top: 120px;
+  background-color: #f6f6f6;
+  padding-bottom: 107px;
+}
+#about .text1 {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  color: #070707;
+}
+#about .text2,
+#about .text3,
+#about .text4 {
+  padding-top: 18px;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+  color: #070707;
+}
+
+#portfolio {
+  padding-top: 112px;
+  padding-bottom: 90px;
+}
+#portfolio .text1 {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  color: #070707;
+  padding-bottom: 47px;
+}
+#portfolio .swiper {
+  width: 100%;
+  height: 300px;
+}
+
+#contacts {
+  padding-top: 114px;
+  padding-bottom: 40px;
+  background-color: #f6f6f6;
+}
+#contacts .text1 {
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  color: #070707;
+}
+#contacts .text2 {
+  padding-top: 20px;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #070707;
+  padding-bottom: 30px;
+}
+#contacts .text3 {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  background-color: #070707;
+  color: #ffffff;
+  border-radius: 20px;
+}
+#contacts .text4 {
+  padding-top: 30px;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #828282;
 }
 
 /*# sourceMappingURL=style.css.map */
