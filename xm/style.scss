@@ -81,7 +81,40 @@ header {
     }
     .swiper {
         width: 100%;
-        height: 300px;
+        height:calc(100% + 50px);
+    }
+    .swiper-slide{
+        position: relative;
+        .about-project{
+            position: absolute;
+            bottom: calc(50px + 20px);
+            width: 90%;
+            left: 5%;
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+            .see, .buyed, .prisece{
+                display: inline-block;
+                width: calc(100% / 3 - 5px);
+                &:hover{
+                    transform: scale(1.05);
+                    
+                }
+                a{
+                    text-decoration: none;
+                    display: inline;
+                }
+            }
+            .see{
+                text-align: left;
+            }
+            .buyed{
+                text-align: center;
+            }
+            .prisece{
+                text-align: end;
+            }
+        }
     }
 }
 #contacts {

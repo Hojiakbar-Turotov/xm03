@@ -15,14 +15,13 @@ async function wrProject() {
     for (let i = 0; i - 1 <= db.project.length; i++) {
         project.innerHTML += `
     <div class="swiper-slide">
-        <img src="${db.project[0].screenShots}" alt="">
+        <img class="w-100" src="${db.project[0].screenShots}" alt="">
         <div class="about-project">
             <span class="see">
-                <a href="${db.project[0].linkSite}">Saytga o'tish</a>
+                <a href="${db.project[0].linkSite}" target="_blank">go to the site</a>
             </span>
-            <span class="buyed">Ushbu proyektim ${db.project[0].buySite} marota sotildi</span>
-            <span class="prisece">Siz ushbu saytni ${db.project[0].price}so'mga
-                <a href="https://t.me/hojiakbar_turotov">olishingiz</a> mumkin
+            <span class="buyed">These site codes have been sold ${db.project[0].buySite} times.</span>
+            <span class="prisece">The price is ${db.project[0].price} soums.
             </span>
         </div>
     </div>

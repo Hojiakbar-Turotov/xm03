@@ -82,7 +82,39 @@ header .home-body .d-flex #lang .active {
 }
 #portfolio .swiper {
   width: 100%;
-  height: 300px;
+  height: calc(100% + 50px);
+}
+#portfolio .swiper-slide {
+  position: relative;
+}
+#portfolio .swiper-slide .about-project {
+  position: absolute;
+  bottom: 70px;
+  width: 90%;
+  left: 5%;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+#portfolio .swiper-slide .about-project .see, #portfolio .swiper-slide .about-project .buyed, #portfolio .swiper-slide .about-project .prisece {
+  display: inline-block;
+  width: calc(33.3333333333% - 5px);
+}
+#portfolio .swiper-slide .about-project .see:hover, #portfolio .swiper-slide .about-project .buyed:hover, #portfolio .swiper-slide .about-project .prisece:hover {
+  transform: scale(1.05);
+}
+#portfolio .swiper-slide .about-project .see a, #portfolio .swiper-slide .about-project .buyed a, #portfolio .swiper-slide .about-project .prisece a {
+  text-decoration: none;
+  display: inline;
+}
+#portfolio .swiper-slide .about-project .see {
+  text-align: left;
+}
+#portfolio .swiper-slide .about-project .buyed {
+  text-align: center;
+}
+#portfolio .swiper-slide .about-project .prisece {
+  text-align: end;
 }
 
 #contacts {
