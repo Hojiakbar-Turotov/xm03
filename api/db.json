@@ -1,10 +1,16 @@
 {
-    "project" : [
+    "project": [
         {
-            "screenShots" : "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/typing.png?alt=media&token=9a735f5b-f76c-4f0a-a4b4-23457772007b",
-            "linkSite" : "https://typing-xm03.vercel.app/",
-            "buySite" : 0,
-            "price" : "5,000"
+            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/typing.png?alt=media&token=9a735f5b-f76c-4f0a-a4b4-23457772007b",
+            "linkSite": "https://typing-xm03.vercel.app/",
+            "buySite": 0,
+            "price": "5,000"
+        },
+        {
+            "screenShots": "https://user-images.githubusercontent.com/31125521/57224752-ad3dc080-700a-11e9-85b9-1357b9f9bca4.gif",
+            "linkSite": "https://face-api-xm03.vercel.app/",
+            "buySite": 0,
+            "price": "5,000"
         }
     ]
 }
