@@ -93,6 +93,9 @@ header {
             color: #fff;
             display: flex;
             justify-content: space-between;
+            img{
+                height: 100%;
+            }
             .see, .buyed, .prisece{
                 display: inline-block;
                 width: calc(100% / 3 - 5px);
