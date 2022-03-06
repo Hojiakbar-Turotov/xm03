@@ -87,6 +87,9 @@ header .home-body .d-flex #lang .active {
 #portfolio .swiper-slide {
   position: relative;
 }
+#portfolio .swiper-slide img {
+  height: calc(100% - 50px);
+}
 #portfolio .swiper-slide .about-project {
   position: absolute;
   bottom: 70px;

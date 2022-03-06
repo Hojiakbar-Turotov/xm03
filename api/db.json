@@ -11,6 +11,12 @@
             "linkSite": "https://face-api-xm03.vercel.app/",
             "buySite": 0,
             "price": "5,000"
+        },
+        {
+            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/calculator.png?alt=media&token=193df440-b240-4f9f-9587-14e75ab83a75",
+            "linkSite": "https://calculator-xm03.vercel.app/",
+            "buySite": 0,
+            "price": "5,000"
         }
     ]
 }

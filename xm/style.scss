@@ -85,6 +85,9 @@ header {
     }
     .swiper-slide{
         position: relative;
+        img{
+            height:calc(100% - 50px);
+        }
         .about-project{
             position: absolute;
             bottom: calc(50px + 20px);
@@ -93,9 +96,7 @@ header {
             color: #fff;
             display: flex;
             justify-content: space-between;
-            img{
-                height: 100%;
-            }
+            
             .see, .buyed, .prisece{
                 display: inline-block;
                 width: calc(100% / 3 - 5px);
