@@ -12,7 +12,7 @@ function getProject() {
 async function wrProject() {
     db = await getProject();
     let wrText = '';
-    for (let i = 0; i - 1 <= db.project.length; i++) {
+    for (let i = 0; i < db.project.length; i++) {
         project.innerHTML += `
     <div class="swiper-slide">
         <img class="w-100" src="${db.project[0].screenShots}" alt="">
