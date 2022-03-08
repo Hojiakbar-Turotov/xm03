@@ -1,6 +1,12 @@
 {
     "project": [
         {
+            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/CRUD.png?alt=media&token=1ba2092a-673f-465b-9776-d11abde5c2f3",
+            "linkSite": "http://sinov202203-001-site1.htempurl.com/src/",
+            "buySite": 0,
+            "price": "50,000"
+        },
+        {
             "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/typing.png?alt=media&token=9a735f5b-f76c-4f0a-a4b4-23457772007b",
             "linkSite": "https://typing-xm03.vercel.app/",
             "buySite": 0,
