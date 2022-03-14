@@ -67,6 +67,12 @@
             "price": "5,000"
         },
         {
+            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/YouTubeSideBarDesign.png?alt=media&token=e191a99c-4c81-4af3-baaa-0c5258b84d3d",
+            "linkSite": "https://you-tube-side-bar-design-xm03.vercel.app/",
+            "buySite": 0,
+            "price": "5,000"
+        },
+        {
             "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/api.png?alt=media&token=0384c855-dd66-43b9-97aa-b23a4d57af85",
             "linkSite": "https://preloader-xm03.vercel.app/",
             "buySite": 0,
