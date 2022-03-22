@@ -1,82 +1,85 @@
 {
-    "project": [
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/CRUD.png?alt=media&token=1ba2092a-673f-465b-9776-d11abde5c2f3",
-            "linkSite": "http://sinov202203-001-site1.htempurl.com/src/",
-            "buySite": 0,
-            "price": "50,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/typing.png?alt=media&token=9a735f5b-f76c-4f0a-a4b4-23457772007b",
-            "linkSite": "https://typing-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://user-images.githubusercontent.com/31125521/57224752-ad3dc080-700a-11e9-85b9-1357b9f9bca4.gif",
-            "linkSite": "https://face-api-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/calculator.png?alt=media&token=193df440-b240-4f9f-9587-14e75ab83a75",
-            "linkSite": "https://calculator-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/buttonAnimation.png?alt=media&token=c20a250c-ec13-44ef-b6d1-6dbedf7466ab",
-            "linkSite": "https://button-animation-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/snaceGame.png?alt=media&token=6cc66448-6ccf-4297-b4b2-8d23f9379bb7",
-            "linkSite": "https://snace-game-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/x0Game.png?alt=media&token=d7321659-30a1-4a08-a673-4e8ecea8afb2",
-            "linkSite": "https://x0-game-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/clock.png?alt=media&token=89d182a8-c939-4a16-b362-175ca509c82f",
-            "linkSite": "https://clock-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/modalWindow.png?alt=media&token=e5a19712-e47e-4dde-8d34-ee99ff190f33",
-            "linkSite": "https://modal-window-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/cssParallax.png?alt=media&token=b52e127b-cfc5-42dc-a930-61aa1b1876c7",
-            "linkSite": "https://css-parallax-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/ccsDropdown.png?alt=media&token=b68a9f70-761f-4fe7-8506-b6b1c4ea70fa",
-            "linkSite": "https://css-dropdown-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/YouTubeSideBarDesign.png?alt=media&token=e191a99c-4c81-4af3-baaa-0c5258b84d3d",
-            "linkSite": "https://you-tube-side-bar-design-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        },
-        {
-            "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/api.png?alt=media&token=0384c855-dd66-43b9-97aa-b23a4d57af85",
-            "linkSite": "https://preloader-xm03.vercel.app/",
-            "buySite": 0,
-            "price": "5,000"
-        }
-    ]
+    "project" : {
+        "other": [
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/CRUD.png?alt=media&token=1ba2092a-673f-465b-9776-d11abde5c2f3",
+                "linkSite": "http://sinov202203-001-site1.htempurl.com/src/",
+                "buySite": 0,
+                "price": "50,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/typing.png?alt=media&token=9a735f5b-f76c-4f0a-a4b4-23457772007b",
+                "linkSite": "https://typing-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://user-images.githubusercontent.com/31125521/57224752-ad3dc080-700a-11e9-85b9-1357b9f9bca4.gif",
+                "linkSite": "https://face-api-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/calculator.png?alt=media&token=193df440-b240-4f9f-9587-14e75ab83a75",
+                "linkSite": "https://calculator-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/buttonAnimation.png?alt=media&token=c20a250c-ec13-44ef-b6d1-6dbedf7466ab",
+                "linkSite": "https://button-animation-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/snaceGame.png?alt=media&token=6cc66448-6ccf-4297-b4b2-8d23f9379bb7",
+                "linkSite": "https://snace-game-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/x0Game.png?alt=media&token=d7321659-30a1-4a08-a673-4e8ecea8afb2",
+                "linkSite": "https://x0-game-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/clock.png?alt=media&token=89d182a8-c939-4a16-b362-175ca509c82f",
+                "linkSite": "https://clock-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/modalWindow.png?alt=media&token=e5a19712-e47e-4dde-8d34-ee99ff190f33",
+                "linkSite": "https://modal-window-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/cssParallax.png?alt=media&token=b52e127b-cfc5-42dc-a930-61aa1b1876c7",
+                "linkSite": "https://css-parallax-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/ccsDropdown.png?alt=media&token=b68a9f70-761f-4fe7-8506-b6b1c4ea70fa",
+                "linkSite": "https://css-dropdown-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/YouTubeSideBarDesign.png?alt=media&token=e191a99c-4c81-4af3-baaa-0c5258b84d3d",
+                "linkSite": "https://you-tube-side-bar-design-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            },
+            {
+                "screenShots": "https://firebasestorage.googleapis.com/v0/b/xm03-2022.appspot.com/o/api.png?alt=media&token=0384c855-dd66-43b9-97aa-b23a4d57af85",
+                "linkSite": "https://preloader-xm03.vercel.app/",
+                "buySite": 0,
+                "price": "5,000"
+            }
+        ]
+    
+    }
 }
