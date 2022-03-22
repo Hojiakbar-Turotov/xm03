@@ -200,13 +200,13 @@ function evenLang() {
     btnLang[0].addEventListener('click', () => {
         lang = 'uz';
         translate();
-        projectWiev();
+        wrProject();
 
     })
     btnLang[2].addEventListener('click', () => {
         lang = 'en';
         translate();
-        projectWiev();
+        wrProject();
     })
 
 }
