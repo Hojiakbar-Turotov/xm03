@@ -33,10 +33,9 @@ function getProject() {
 async function wrProject() {
     db = await getProject();
     dbWiev = db.project.other;
-    console.log(dbWiev)
     eventPortfolio(dbWiev)
     load_SwipperJs();
-    menuScroll();
+    menuScroll();   
 }
 
 
